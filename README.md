@@ -24,7 +24,7 @@ Interesado en aprender:
 Contáctame si el perfil que buscas es de alguien con ganas de alimentar su sabiduría en el desarrollo web, proactivo, con rasgos de liderazgo y buena actitud. 
 
 Mail: serocontacto@gmail.com
-LinkedIn: linkedin.com/serotomas/
+LinkedIn: https://www.linkedin.com/in/serotomas/
 
 
 
