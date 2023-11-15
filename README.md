@@ -4,7 +4,7 @@ Mi nombre es Tomas Eliseo Silverio, pero me pueden llamar Tomy.
 
 Soy desarrollador FullStack orientado al FrontEnd.
 
-Tengo experiencia desarrollando dos aplicaciones en React, como también el entusiasmo por aprender lo que sea necesario para crecer tanto como persona o profesionalmente.
+Tengo experiencia desarrollando dos aplicaciones en React, como también el entusiasmo por aprender lo que sea necesario para crecer tanto como persona y profesionalmente.
 
 Mi conocimiento en tecnologías son los siguientes:
 - React Js
